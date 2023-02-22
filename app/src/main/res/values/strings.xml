@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CombinedRecycleview</string>
+
+    //Not found
+
+    <string name="suggested_jobs">Jobs matching your skills</string>
+    <string name="no_jobs_found">No Jobs Found</string>
+    <string name="no_nearest_jobs_found">No Nearest Jobs Found</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="_4500_m">₹ 4500/m</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="_1_km">1/km</string>
+    <string name="delight">Delight</string>
+
+</resources>
